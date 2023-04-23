@@ -121,7 +121,7 @@ class Profile
   </picture>
 </p>
 
-## :building_construction: Design
+## :art: Design
 
 <p align="left">
   <picture>
