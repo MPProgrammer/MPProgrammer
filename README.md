@@ -200,5 +200,8 @@ class Profile
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=1)
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=2)
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=3)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=4)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=5)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=6)
   
 </details>
