@@ -1,14 +1,9 @@
 ## Contact Me
 <p align="left">
-  <a href="mailto:mariusz.panek.dev@gmail.com">
-    <img src="badges/gmail.svg" alt="" />
-  </a>
-  <a href="https://linkedin.com/in/mariusz-panek-224a1b257">
-    <img src="badges/linkedin.svg" alt="" />
-  </a>
-  <a href="https://steamcommunity.com/id/Kirri/">
-    <img src="badges/steam.svg" alt="" />
-  </a>
+  
+  [![Gmail](badges/gmail.svg)](mailto:mariusz.panek.dev@gmail.com)
+  [![LinkedIn](badges/linkedin.svg)](https://linkedin.com/in/mariusz-panek-224a1b257)
+
 </p>
 
 
@@ -65,6 +60,29 @@ class Profile
     ];
 }
 ```
+
+<br />
+
+### Languages
+
+<p align="left">
+  <picture>
+    <img alt="" src="badges/html.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/css3.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/js.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/php.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/python.svg">
+  </picture>
+</p>
+
 
 <br />
 
