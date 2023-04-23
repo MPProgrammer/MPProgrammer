@@ -106,6 +106,20 @@ class Profile
   </picture>
 </p>
 
+## :floppy_disk: Databases
+
+<p align="left">
+  <picture>
+    <img alt="" src="badges/mariadb.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/mysql2.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/sqllite.svg">
+  </picture>
+</p>
+
 ## :building_construction: Design
 
 <p align="left">
@@ -136,10 +150,19 @@ class Profile
     <img alt="" src="badges/git.svg">
   </picture>
   <picture>
+    <img alt="" src="badges/github.svg">
+  </picture>
+  <picture>
     <img alt="" src="badges/office_365.svg">
   </picture>
   <picture>
     <img alt="" src="badges/visualstudio_code.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/trello.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/notepadplusplus.svg">
   </picture>
 </p>
 
@@ -167,4 +190,15 @@ class Profile
   
   ![](https://raw.githubusercontent.com/Kirri777/Kirri777/master/stats/overview.svg#gh-dark-mode-only)
   ![](https://raw.githubusercontent.com/Kirri777/Kirri777/master/stats/languages.svg#gh-dark-mode-only)
+</details>
+
+
+<details>
+  <summary>Jokes</summary>
+  <br />
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+  
 </details>
