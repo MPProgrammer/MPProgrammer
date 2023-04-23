@@ -32,7 +32,7 @@ class Profile
         "Cross-browser compatibility",
         "Interface design (UI)",
         "Microsoft office",
-        "Graphic / Video programs" => [
+        "Graphic design / Video editing software" => [
             "Adobe Premiere",
             "Adobe Photoshop",
             "Gimp",
