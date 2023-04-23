@@ -1,53 +1,55 @@
-    class Profile
-    {
-        /** @var string $name */
-        protected $name = "Mariusz";
+```php
+class Profile
+{
+    /** @var string $name */
+    protected $name = "Mariusz";
 
-        /** @var array $professions */
-        protected $professions = [
-            "Web developer",
-            'Python programmer'
-        ];
+    /** @var array $professions */
+    protected $professions = [
+        "Web developer",
+        'Python programmer'
+    ];
 
-        /** @var array $skills */
-        protected $skills = [
-            "HTML5 / CSS / Bootstrap",
-            "JS / jQuery",
-            "SQL",
-            "PHP (phpcs / phpdoc)",
-            "Python 2/5",
-            "Git",
-            "Docker",
-            "Cross-browser compatibility",
-            "Interface design (UI)",
-            "Microsoft office",
-            "Graphic / Video programs" => [
-                "Adobe Premiere",
-                "Adobe Photoshop",
-                "Gimp",
-                "Inkscape"
-            ]
-        ];
+    /** @var array $skills */
+    protected $skills = [
+        "HTML5 / CSS / Bootstrap",
+        "JS / jQuery",
+        "SQL",
+        "PHP (phpcs / phpdoc)",
+        "Python 2/5",
+        "Git",
+        "Docker",
+        "Cross-browser compatibility",
+        "Interface design (UI)",
+        "Microsoft office",
+        "Graphic / Video programs" => [
+            "Adobe Premiere",
+            "Adobe Photoshop",
+            "Gimp",
+            "Inkscape"
+        ]
+    ];
 
-        /** @var array $frameworks */
-        protected $frameworks = [
-            "Wordpress (with woocommerce)",
-            "Prestashop",
-            "Magento",
-            "Opencart",
-            "Custom framework"
-        ];
+    /** @var array $frameworks */
+    protected $frameworks = [
+        "Wordpress (with woocommerce)",
+        "Prestashop",
+        "Magento",
+        "Opencart",
+        "Custom framework"
+    ];
 
-        /** @var array $hobbies */
-        protected $hobbies = [
-            "Raspberry Pi Projects / IT home improvements",
-            "Video games",
-            "Fantasy books",
-            "Cinematography and japanese animation",
-            "Computer software and hardware",
-            "Photography"
-        ];
-    }
+    /** @var array $hobbies */
+    protected $hobbies = [
+        "Raspberry Pi Projects / IT home improvements",
+        "Video games",
+        "Fantasy books",
+        "Cinematography and japanese animation",
+        "Computer software and hardware",
+        "Photography"
+    ];
+}
+```
 
 <br />
 
