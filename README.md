@@ -1,3 +1,18 @@
+## Contact Me
+<p align="left">
+  <a href="mailto:mariusz.panek.dev@gmail.com">
+    <img src="badges/gmail.svg" alt="" />
+  </a>
+  <a href="https://linkedin.com/in/mariusz-panek-224a1b257">
+    <img src="badges/linkedin.svg" alt="" />
+  </a>
+  <a href="https://steamcommunity.com/id/Kirri/">
+    <img src="badges/steam.svg" alt="" />
+  </a>
+</p>
+
+
+
 ```php
 class Profile
 {
