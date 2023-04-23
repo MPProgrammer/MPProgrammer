@@ -56,7 +56,8 @@ class Profile
         "Fantasy books",
         "Cinematography and japanese animation",
         "Computer software and hardware",
-        "Photography"
+        "Photography",
+        "Stable Diffusion"
     ];
 }
 ```
@@ -163,6 +164,9 @@ class Profile
   </picture>
   <picture>
     <img alt="" src="badges/notepadplusplus.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/stable_diffusion.svg">
   </picture>
 </p>
 
