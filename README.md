@@ -197,8 +197,8 @@ class Profile
   <summary>Jokes</summary>
   <br />
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=1)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=2)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&v=3)
   
 </details>
