@@ -1,4 +1,4 @@
-## Contact Me
+## :phone: Contact Me
 <p align="left">
   
   [![Gmail](badges/gmail.svg)](mailto:mariusz.panek.dev@gmail.com)
@@ -63,7 +63,7 @@ class Profile
 
 <br />
 
-### Languages
+## :man_technologist: Languages
 
 <p align="left">
   <picture>
@@ -83,6 +83,65 @@ class Profile
   </picture>
 </p>
 
+## :books: Frameworks & Library
+
+<p align="left">
+  <picture>
+    <img alt="" src="badges/bootstrap.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/jquery.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/Magento.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/prestashop.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/woocommerce.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/wordpress.svg">
+  </picture>
+</p>
+
+## :building_construction: Design
+
+<p align="left">
+  <picture>
+    <img alt="" src="badges/adobepremierepro.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/gimp2.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/Inkscape.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/Photoshop.svg">
+  </picture>
+</p>
+
+## :hammer_and_wrench: IDE, Tools & Others
+
+<p align="left">
+  <picture>
+    <img alt="" src="badges/ raspberrypi.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/docker.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/git.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/office_365.svg">
+  </picture>
+  <picture>
+    <img alt="" src="badges/visualstudio_code.svg">
+  </picture>
+</p>
 
 <br />
 
