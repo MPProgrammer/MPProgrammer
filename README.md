@@ -1,6 +1,29 @@
-### Hi there 👋
+<!--
+    <?php
+        public function AboutMe {
+            protected $name = "Mariusz"
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPProgrammer&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+            let profession = "Web developer, python programmer"
+
+            var preferredTechStack = ["swift", "swiftui", "cloudkit", "core data"]
+            var hasUsed = ["react", "javascript", "firebase"]
+        }
+-->
+
+<br />
+<br />
+
+## Stats
+![](https://raw.githubusercontent.com/MPProgrammer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MPProgrammer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MPProgrammer)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
+## Private account stats
+
 
 
 <!--
