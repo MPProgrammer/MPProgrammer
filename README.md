@@ -166,7 +166,7 @@ class Profile
     <img alt="" src="badges/notepadplusplus.svg">
   </picture>
   <picture>
-    <img alt="" src="badges/stable_diffusion.svg">
+    <img alt="" src="badges/ stable_diffusion.svg">
   </picture>
 </p>
 
