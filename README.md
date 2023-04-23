@@ -7,7 +7,7 @@ class Profile
     /** @var array $professions */
     protected $professions = [
         "Web developer",
-        'Python programmer'
+        "Python programmer"
     ];
 
     /** @var array $skills */
