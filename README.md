@@ -63,7 +63,10 @@ class Profile
   <summary>Wakatime stats</summary>
   <br />
   
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MPProgrammer)](https://github.com/anuraghazra/github-readme-stats)
+  [![wakatime](https://wakatime.com/badge/user/330c29dd-88b8-4dee-b1dd-ed4d577061ee.svg)](https://wakatime.com/@330c29dd-88b8-4dee-b1dd-ed4d577061ee)
+    
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MPProgrammer&v=3)](https://github.com/anuraghazra/github-readme-stats)
+    
 </details>
 
 <details>
