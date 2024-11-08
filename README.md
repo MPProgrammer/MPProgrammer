@@ -11,37 +11,46 @@
 ```php
 class Profile
 {
-    /** @var string $name */
-    protected $name = "Mariusz";
+    /** @var string NAME The name of the profile owner. */
+    public const NAME = "Mariusz";
 
-    /** @var array $professions */
-    protected $professions = [
-        "Web developer",
-        "Python programmer"
+    /** @var array $professions List of professions the person is skilled in. */
+    protected array $professions = [
+        "Web Developer",
+        "Python Programmer"
     ];
 
-    /** @var array $skills */
-    protected $skills = [
+    /** @var array $skills Detailed list of technical skills, including proficiency in various technologies and tools. */
+    protected array $skills = [
         "HTML5 / CSS / Bootstrap",
-        "JS / jQuery",
+        "JavaScript / jQuery",
         "SQL",
-        "PHP (phpcs / phpdoc)",
-        "Python 2/5",
+        "PHP" => [
+            "PHP (5.4 - 8.4)",  // Supported PHP versions
+            "PHPDoc",           // Documentation generation
+            "PHP Syntax Tests", // Syntax testing for various versions
+            "PHPStan",          // Static analysis
+            "PHP_CodeSniffer",  // Code quality checker
+            "License Checking"  // Checking licenses of packages
+        ],
+        "Python",
+        "Lua",
         "Git",
-        "Docker",
-        "Cross-browser compatibility",
-        "Interface design (UI)",
-        "Microsoft office",
+        "GitHub Actions",       // CI/CD automation
+        "Docker",               // Containerization
+        "Cross-browser Compatibility",
+        "Interface Design (UI)",
+        "Microsoft Office",
         "Graphic design / Video editing software" => [
             "Adobe Premiere",
             "Adobe Photoshop",
-            "Gimp",
+            "GIMP",
             "Inkscape"
         ]
     ];
 
-    /** @var array $frameworks */
-    protected $frameworks = [
+    /** @var array $frameworks List of web frameworks and platforms with which the person is proficient. */
+    protected array $frameworks = [
         "Wordpress (with woocommerce)",
         "Prestashop",
         "Magento",
@@ -49,15 +58,15 @@ class Profile
         "Custom framework"
     ];
 
-    /** @var array $hobbies */
-    protected $hobbies = [
-        "Raspberry Pi Projects / IT home improvements",
-        "Video games",
-        "Fantasy books",
-        "Cinematography and japanese animation",
-        "Computer software and hardware",
+    /** @var array $hobbies List of hobbies and interests that the person enjoys in their free time. */
+    protected array $hobbies = [
+        "Raspberry Pi Projects / Home IT Enhancements",
+        "Video Games",
+        "Fantasy Books",
+        "Cinematography & Japanese Animation",
+        "Computer Software & Hardware",
         "Photography",
-        "Stable Diffusion"
+        "Stable Diffusion" // AI image generation technology
     ];
 }
 ```
