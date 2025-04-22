@@ -3,6 +3,7 @@
   
   [![Gmail](badges/gmail.svg)](mailto:mariusz.panek.dev@gmail.com)
   [![LinkedIn](badges/linkedin.svg)](https://linkedin.com/in/mariusz-panek-224a1b257)
+  [![Codelarix](badges/codelarix2.svg)](https://codelarix.dev/)
 
 </p>
 
