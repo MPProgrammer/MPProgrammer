@@ -183,20 +183,10 @@ class Profile
 <br />
 
 ## Stats
-![](https://raw.githubusercontent.com/MPProgrammer/MPProgrammer/master/stats/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MPProgrammer/MPProgrammer/master/stats/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MPProgrammer/MPProgrammer/master/stats2/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MPProgrammer/MPProgrammer/master/stats2/languages.svg#gh-dark-mode-only)
 
 <br />
-
-<details>
-  <summary>Wakatime stats</summary>
-  <br />
-  
-  [![wakatime](https://wakatime.com/badge/user/330c29dd-88b8-4dee-b1dd-ed4d577061ee.svg)](https://wakatime.com/@330c29dd-88b8-4dee-b1dd-ed4d577061ee)
-    
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MPProgrammer&v=3&range=all_time&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
-</details>
 
 <details>
   <summary>Private account stats</summary>
