@@ -134,40 +134,40 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #4F5D95; 
-  width: 56.636%;
+  width: 56.647%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 20.717%;
+  width: 20.708%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 7.651%;
+  width: 7.646%;
 " class="progress-item"></span><span style="
   background-color: #f0c040; 
-  width: 4.536%;
+  width: 4.533%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 3.423%;
+  width: 3.425%;
 " class="progress-item"></span><span style="
   background-color: #c1d026; 
-  width: 1.951%;
+  width: 1.953%;
 " class="progress-item"></span><span style="
   background-color: #878787; 
-  width: 1.854%;
+  width: 1.852%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 1.229%;
+  width: 1.234%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 0.759%;
+  width: 0.758%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 0.502%;
+  width: 0.501%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
   width: 0.239%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.140%;
+  width: 0.142%;
 " class="progress-item"></span><span style="
   background-color: #1d365d; 
   width: 0.093%;
@@ -266,7 +266,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">56.64%</span>
+  <span class="percent">56.65%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -282,7 +282,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">20.72%</span>
+  <span class="percent">20.71%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -314,7 +314,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Smarty</span>
-  <span class="percent">4.54%</span>
+  <span class="percent">4.53%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
